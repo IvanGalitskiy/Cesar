@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cesar</string>
+    <string name="eng_text">My simple text for code with Ceaser code</string>
+    <string name="ukr_text">А може спробуємо закодувати українську шифром Цезаря</string>
+    <string name="eng_code_text"></string>
+    <string name="ukr_code_text"></string>
+</resources>
